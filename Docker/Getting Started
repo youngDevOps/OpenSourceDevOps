@@ -8,4 +8,9 @@ Getting Started:
 Download Docker Desktop
 Type the following Command into the Terminal - docker run -dp 80:80 docker/getting-started
 Open Localhost - http://localhost
-Shoudl Load the Docker Getting Started site
+Should Load the Docker Getting Started site
+
+Need to Add Subsequent Pages:
+Chaching
+SQL DB
+Docker Compose + Rest of getting Started
